@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TH07_1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello static fragment1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment2">Hello static fragment2</string>
+</resources>
